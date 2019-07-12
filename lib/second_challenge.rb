@@ -1,4 +1,4 @@
-def=second_challenge.rg
+def=second_challenge
 epic_tragedy = {
    :montague => {
       :patriarch => {},
